@@ -1,1 +1,0 @@
-export { TypesOfEmptyStates } from './component';
